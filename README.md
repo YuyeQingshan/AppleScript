@@ -1,2 +1,2 @@
 # AppleScript
-AppleScript
+Hello AppleScript
